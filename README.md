@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ![JGDevelops (1)](https://user-images.githubusercontent.com/103215878/175794891-9d43b2b8-eaff-4974-9852-899e8d924b50.gif)
 
-###Hi welcome to my GitHub my name is Julian Gaston and im a Software Developer with HCL Tech. 
+----  Hi welcome to my GitHub my name is Julian Gaston and im a Software Developer with HCL Tech. ----
 
 - If you are checking my github out that must mean you're Awesome. 
 - While you're at it you should check out my pinned projects :) 
