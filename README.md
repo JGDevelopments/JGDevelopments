@@ -1,8 +1,4 @@
 
-<!--
-**JGDevelopments/JGDevelopments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ![JGDevelops (1)](https://user-images.githubusercontent.com/103215878/175794891-9d43b2b8-eaff-4974-9852-899e8d924b50.gif)
 
 <h1 align="center">Hi 👋, I'm Julian Gaston</h1>
