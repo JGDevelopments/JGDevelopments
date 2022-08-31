@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Ecommerce Web-App](https://github.com/JGDevelopments/ECommerceCapstone)
 
-- 🌱 I’m currently learning **React, Springboot, AWS**
+- 🌱 I’m currently learning **React, Springboot, JS**
 
-- 💬 Ask me about **JSP, HTML/CSS, JS, Maven, JQUERY, Spring, Bootstrap**
+- 💬 Ask me about **JSP, HTML/CSS, JS, Maven, Spring, Bootstrap**
 
 - 📫 How to reach me **dsikes313@gmail.com**
 
