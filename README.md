@@ -1,5 +1,5 @@
 
-!![Watch new episodes every M-W-F! (1)](https://user-images.githubusercontent.com/103215878/201262676-c2adfac6-ee16-404c-8a09-edd14d9e002c.png)
+![Watch new episodes every M-W-F! (1)](https://user-images.githubusercontent.com/103215878/201262676-c2adfac6-ee16-404c-8a09-edd14d9e002c.png)
 
 <h1 align="center">Hi 👋, I'm Julian Gaston</h1>
 <h3 align="center">A passionate and enthusiastic Full Stack Developer</h3>
