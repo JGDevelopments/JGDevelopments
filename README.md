@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React, Springboot, JS**
 
-- 💬 Ask me about **JSP, HTML/CSS, JS, Maven, Spring, Bootstrap**
+- 💬 Ask me about **React, Redux, CSS, AI, NextJS, Angular, SpringBoot**
 
-- 📫 How to reach me **dsikes313@gmail.com**
+- 📫 How to reach me **jgdevelops23@gmail.com**
 
 - ⚡ Fun fact **I love to hike! 14er Rockies :)**
 
