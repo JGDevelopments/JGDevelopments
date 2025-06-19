@@ -3,15 +3,14 @@
 <h1 align="center">Hi 👋, I'm Julian Gaston</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Ecommerce Web-App](https://github.com/JGDevelopments/ECommerceCapstone)
+- 🔭 I’m currently working on [light-sensor-dashboard](https://github.com/JGDevelopments/light-sensor-dashboard)
 
-- 🌱 I’m currently learning **React, Springboot, JS**
+- 🌱 I’m currently prepping for AWS Dev Associate
 
-- 💬 Ask me about **React, Redux, CSS, AI, NextJS, Angular, SpringBoot**
+- 💬 Ask me about **React, Redux, CSS, AI, NextJS, Angular, AWS**
 
 - 📫 How to reach me **jgdevelops23@gmail.com**
-
-- ⚡ Fun fact **I love to hike! 14er Rockies :)**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
